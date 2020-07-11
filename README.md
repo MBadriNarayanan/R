@@ -10,3 +10,5 @@ Course offered by Udemy. Created and taught by Kirill Eremenko, SuperDataScience
 [Section 3 : Homework Challenge Financial Statement Analysis](https://github.com/MBadriNarayanan/R/blob/master/Section3/HomeworkChallengeFinancialStatementAnalysis.R)
 
 [Section 4 : Homework Challenge Basketball Freethrows](https://github.com/MBadriNarayanan/R/blob/master/Section4/HomeworkChallengeBasketballFreethrows.R)
+
+[Section 5 : Homework Challenge World Trends](https://github.com/MBadriNarayanan/R/blob/master/Section5/HomeworkChallengeWorldTrend.R)

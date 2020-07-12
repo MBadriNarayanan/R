@@ -1,6 +1,6 @@
 # Load the Country Region Vectors into the environment byt running the CountryRegionVectors script
 
-option(width = 200)
+options(width = 200)
 
 # Method 1 
 

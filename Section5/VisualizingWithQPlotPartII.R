@@ -50,3 +50,4 @@ qplot(data = merged , x = Internet.users , y = Birth.rate , colour = Region , si
 # Adding Title
 
 qplot(data = merged , x = Internet.users , y = Birth.rate , colour = Region , size = I(5) , shape = I(2) , alpha = I(0.6) , main = "Internet User vs Birth Rate")
+

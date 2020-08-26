@@ -1,5 +1,5 @@
 # R Programming A-Z™: R For Data Science With Real Exercises!
-Course offered by Udemy. Created and taught by Kirill Eremenko, SuperDataScience Team.
+Course offered by Udemy. Created and taught by Kirill Eremenko & SuperDataScience Team.
 
 [Course Certificate](https://github.com/MBadriNarayanan/R/blob/master/Course%20Certificate.pdf)
 
